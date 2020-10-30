@@ -1,7 +1,7 @@
 # Dash Recommender
 
 ## About
-Dash Recommender takes an input of user names, `dash` names and the corrosponding rating. It then trains feature vectors for each user and `dash` using collaborative filtering techniques. And then one can find the top _x_ `dashes` for a given user or predict what that user would rate the `dash`.
+Dash Recommender takes an input of user names, `dash` names and the corresponding rating. It then trains feature vectors for each user and `dash` using collaborative filtering techniques. And then one can find the top _x_ `dashes` for a given user or predict what that user would rate the `dash`.
 
 In the given sample input, we are able to achieve 75% accuracy and reach a mean_squared_loss of 0.05. This number is bound to increase in more exhaustive datasets.
 
